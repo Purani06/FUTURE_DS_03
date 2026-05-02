@@ -78,6 +78,8 @@ Interactive Excel dashboard with:
 - Campaign Impact Analysis
 - Dynamic Slicers
 
+  ![Dashboard Preview](images/dashboard_preview.png)
+
 ---
 
 ## Key Insights
