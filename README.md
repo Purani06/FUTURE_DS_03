@@ -79,8 +79,7 @@ Interactive Excel dashboard with:
 - Dynamic Slicers
 
 ## Dashboard Preview
-
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard](images/dashboard_overview.png)
 
 ---
 
